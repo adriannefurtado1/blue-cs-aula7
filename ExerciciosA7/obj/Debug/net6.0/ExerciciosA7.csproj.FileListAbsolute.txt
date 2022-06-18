@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.AssemblyInfo.cs
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\bin\Debug\net6.0\ExerciciosA7.exe
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\bin\Debug\net6.0\ExerciciosA7.deps.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\bin\Debug\net6.0\ExerciciosA7.runtimeconfig.json
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\bin\Debug\net6.0\ExerciciosA7.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\bin\Debug\net6.0\ExerciciosA7.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\refint\ExerciciosA7.dll
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.pdb
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ExerciciosA7.genruntimeconfig.cache
+C:\Users\adria\OneDrive\3. Estudo\CSharp\blue-cs\Aula7\ExerciciosA7\obj\Debug\net6.0\ref\ExerciciosA7.dll
